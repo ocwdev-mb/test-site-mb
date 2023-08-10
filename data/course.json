@@ -16,17 +16,17 @@
   },
   "course_title": "Test Site MB",
   "hide_download": false,
-  "course_description": "Test Site MB",
+  "course_description": "test-site-mbdsfgdfsg",
   "department_numbers": [
     "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "1",
+  "primary_course_number": "1111",
   "course_image_thumbnail": {
     "content": "",
     "website": "test-site-mb"
   },
   "learning_resource_types": [],
-  "site_uid": "c57a690f-38e7-4c96-942f-0df43904803a",
+  "site_uid": "35859aea-8b6f-4a93-99e4-73038870ae77",
   "site_short_id": "test-site-mb"
 }
