@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2027",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-site-mb"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-site-mb"
+  },
+  "course_title": "Test Site MB",
+  "hide_download": false,
+  "course_description": "Test Site MB",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-site-mb"
+  },
+  "learning_resource_types": [],
+  "site_uid": "c57a690f-38e7-4c96-942f-0df43904803a",
+  "site_short_id": "test-site-mb"
+}
