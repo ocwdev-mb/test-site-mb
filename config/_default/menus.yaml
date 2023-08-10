@@ -1,9 +1,9 @@
 leftnav:
-- identifier: 33d99087-7367-42c8-84a3-0e9690d33833
+- identifier: 7c1510e1-e7dd-413e-ab79-92c43f1f90e9
   name: p1 link
   pageRef: /pages/p1
   weight: 10
-- identifier: 35f2c158-41f0-4319-8942-12f60bfd38b0
+- identifier: 04a8e906-c75b-4d10-81be-6932825a5de8
   name: rl
   pageRef: /resources/clap_gif
   weight: 20
