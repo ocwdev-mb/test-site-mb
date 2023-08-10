@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test-site-mb/clap.gif
+file: /courses/1111-test-site-mb-spring-2027/clap.gif
 file_size: 118957
 file_type: image/gif
 image_metadata:
