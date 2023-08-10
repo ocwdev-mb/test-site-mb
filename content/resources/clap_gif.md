@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: clap.gif
-uid: 04a8e906-c75b-4d10-81be-6932825a5de8
+uid: 35f2c158-41f0-4319-8942-12f60bfd38b0
 video_files:
   archive_url: ''
   video_captions_file: ''
